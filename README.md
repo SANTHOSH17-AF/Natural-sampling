@@ -1,7 +1,7 @@
 # Natural-Sampling
- 
- ### Aadhithya SV
- ### 212223060001
+ ## 08/03/25
+ ### Santhosh J
+ ### 212223060248
  ## Aim
  To achieve natural sampling for experimental purposes, use a sampling signal (pulse train) to sample the continuous signal at regular intervals. Implement it using Python with NumPy for signal generation and Matplotlib for visualization.
  ## Tools required
